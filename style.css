@@ -41,6 +41,7 @@ body {
   background-color: white;
   text-align: center;
   overflow: hidden;
+  margin-bottom: 1rem;
 }
 .card-body p {
   color: var(--darkgray);
